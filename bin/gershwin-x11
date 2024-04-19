@@ -1,0 +1,3 @@
+#!/bin/sh
+
+picom --config /opt/etc/picom.conf & openapp GWorkspace
